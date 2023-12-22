@@ -1,1 +1,1 @@
-export const baseurl = "https://vendingroute-api.vercel.app"
+export const baseurl = "https://adminpanelbackend-vd4w.onrender.com"
